@@ -260,3 +260,11 @@ Thank you again for your support! We especially appreciate your sharing and forw
 Sincerely grateful!
 
 The AngusTester Team!
+
+#### AI Agent Marketplace Index And Router | [API Doc](https://www.deepnlp.org/doc/ai_agent_marketplace)
+[![AI Agent Marketplace and Router Badge](https://www.deepnlp.org/api/ai_agent_marketplace/svg?name=xcancloud/AngusTester&badge_type=review)](https://www.deepnlp.org/store/ai-agent/ai-agent-index/pub-xcancloud/angustester)
+
+```
+curl 'https://www.deepnlp.org/api/ai_agent_marketplace/v2?id=xcancloud/AngusTester'
+```
+    
